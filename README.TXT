@@ -15,7 +15,11 @@ USER INSTRUCTIONS:
 2) Always update text before choosing an image to make sure that the image does not cover the text
 3) You can choose to update components individually or to use the update all button (bottom left)
 <<<<<<< HEAD
+<<<<<<< HEAD
 4) In order to change the font you have to press the update font button or add text
+=======
+4) In order to change the font you have to press the update font button
+>>>>>>> origin/master
 =======
 4) In order to change the font you have to press the update font button
 >>>>>>> origin/master
